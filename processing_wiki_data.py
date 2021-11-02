@@ -10,7 +10,7 @@ def is_number(string):
     
 def processing_wiki_data(data_wiki):
     """
-    Processes the data from the merged_no_repeated.txt file.
+    Processes the data from the WSC_data.txt file.
     It gets rid of things between parenthesis -because it's
     mostly dates- numbers and things that follow the pattern
     number-number. 
